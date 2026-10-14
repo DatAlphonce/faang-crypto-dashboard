@@ -1,6 +1,7 @@
 # FAANG & Crypto Dashboard
 
 An interactive financial analytics application built with Python and Streamlit for exploring historical stock and cryptocurrency performance.
+https://faang-crypto-dashboard-ar5u9mdpeevnangnvdm2in.streamlit.app/
 
 ## Features
 
