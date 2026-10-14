@@ -1,0 +1,5 @@
+These are the direct dependencies needed for this application. Streamlit Cloud uses this file to install the packages when deploying your project
+
+streamlit
+yfinance
+pandas
